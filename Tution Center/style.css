@@ -37,6 +37,16 @@
     margin-top: 10px;
     margin: 10px auto 10px auto;
 }
+#first4{
+    background: black;
+    width: 600px;
+    height: 250px;
+    margin-left: 10px;
+    border: 2px dotted white;
+    margin-top: 10px;
+    margin: 10px auto 10px auto;
+}
+
 #first2{
     background: black;
     width: 600px;
@@ -50,19 +60,43 @@
 h1,h2 {
     text-align: center;
     color: white;
-   
     border: 2px solid white;
     margin: auto;
-    width: 280px;
+    width: 344px;
     padding: 5px;
     margin-bottom: 5px;
     margin-top: 10px;
     box-shadow: 5px 5px 5px white;
+    height: 30px;
+
     
 }
 
+h3 {
+        text-align: center;
+    color: white;
+    border: 2px solid white;
+    margin: auto;
+    width: 344px;
+    padding: 5px;
+    margin-bottom: 5px;
+    margin-top: 10px;
+    box-shadow: 5px 5px 5px white;
+    height: 30px;
+}
+
 #width {
-    width: 480px;
+    width: 538px;
     margin-top: 15px;
     height: 47px;
+}
+
+#f {
+        width: 23px;
+    height: 19px;
+}
+
+#pi {
+        margin-top: 0px;
+
 }
