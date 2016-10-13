@@ -62,7 +62,7 @@ h1,h2 {
     color: white;
     border: 2px solid white;
     margin: auto;
-    width: 344px;
+    width: 372px;
     padding: 5px;
     margin-bottom: 5px;
     margin-top: 10px;
@@ -92,11 +92,51 @@ h3 {
 }
 
 #f {
-        width: 23px;
-    height: 19px;
+    width: 29px;
+    height: 21px;
 }
 
 #pi {
         margin-top: 0px;
 
+}
+
+#l {
+    width: 23px;
+    height: 19px;
+    margin-top: 3px;
+}
+
+#ad {
+    width: 105px;
+    height: 66px;
+    /* margin-top: -41px; */
+    position: absolute;
+    top: 73px;
+    left: 413px;
+}
+
+#ad1 {
+    width: 105px;
+    height: 66px;
+    /* margin-top: -41px; */
+    position: absolute;
+    top: 336px;
+    left: 413px;
+}
+#ad2 {
+    width: 105px;
+    height: 66px;
+    /* margin-top: -41px; */
+    position: absolute;
+    top: 600px;
+    left: 413px;
+}
+#ad3 {
+    width: 105px;
+    height: 66px;
+    /* margin-top: -41px; */
+    position: absolute;
+    top: 863px;
+    left: 413px;
 }
